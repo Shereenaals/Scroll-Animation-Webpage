@@ -8,3 +8,4 @@ window.addEventListener('scroll', function() {
         story.style.transform = `translate3d(0, ${movement}px, 0)`;
     });
 });
+
